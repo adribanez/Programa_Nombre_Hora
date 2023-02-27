@@ -1,5 +1,5 @@
-﻿Console.WriteLine("Escriba su nombre: ");
+﻿Console.WriteLine("Introduzca la hora exacta:");
 
-String nombre = Console.ReadLine();
+String Hora = Console.ReadLine();
 
-Console.WriteLine("Hola " + nombre);
+Console.WriteLine("Son las " + Hora + " que pase un gran día");
